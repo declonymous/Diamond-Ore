@@ -8,7 +8,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 600
+craftTime: 6
 updateEffect: pulverizeRed
 consumes: {
   power: 1.8
@@ -24,13 +24,12 @@ consumes: {
 }
 requirements: [
   lead/120
-  surge-alloy/30
   silicon/75
   titanium/200
   graphite/200
 ]
 category: crafting
-research: diamond-drill
+research: smelter
 activeSound: machine
 activeSoundVolume: 0.95
 idleSound: respawning
