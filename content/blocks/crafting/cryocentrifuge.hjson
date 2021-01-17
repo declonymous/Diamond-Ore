@@ -33,7 +33,7 @@ requirements: [
   thorium/150
 ]
 category: crafting
-research: blast-furnace
+research: blast-mixer
 activeSound: respawning
 activeSoundVolume: 1.15
 idleSound: machine
