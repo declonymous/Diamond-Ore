@@ -1,7 +1,7 @@
 //type: GenericCrafter
 name: Heavy Coal Processor
 description: Solidifies oil into chunks of coal.
-itemCapacity: 30
+itemCapacity: 300
 liquidCapacity: 150
 health: 1200
 size: 4
@@ -12,9 +12,9 @@ craftTime: 60
 craftEffect: steam
 updateEffect: oily
 consumes: {
-  power: 6.7
+  power: 1
   liquid: {
-    liquid: oil
+    liquid: water
     amount: 0.12
   }
 }
@@ -32,4 +32,4 @@ ambientSound: respawning
 ambientSoundVolume: 0.5
 loopSound: machine
 loopSoundVolume: 1.05
-outputItem: coal/6
+outputItem: sand/25
