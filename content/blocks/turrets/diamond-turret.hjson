@@ -130,7 +130,7 @@ ammoTypes: {
   diamond: {
     type: MissileBulletType
     speed: 7
-    damage: 45
+    damage: 450
     width: 3
     height: 6
 	frontColor: ddffff
