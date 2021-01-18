@@ -14,7 +14,7 @@ consumes: {
   power: 1.8
   items: {
     items: [
-      coal/20
+      coal/2
     ]
   }
   liquid: {
@@ -24,7 +24,6 @@ consumes: {
 }
 requirements: [
   lead/120
-  surge-alloy/30
   silicon/75
   titanium/200
   graphite/200
@@ -33,10 +32,9 @@ category: crafting
 research:{
   parent: disassembler
   requirements:[
-	  coal/600000
-	  scrap/600000
+	  coal/6000
+	  scrap/6000
 	  lead/12000
-      surge-alloy/3000
       silicon/7500
       titanium/20000
       graphite/20000
@@ -46,4 +44,4 @@ loopSound: machine
 loopSoundVolume: 0.95
 ambientSound: respawning
 ambientSoundVolume: 0.5
-outputItem: diamond/5
+outputItem: diamond/50
