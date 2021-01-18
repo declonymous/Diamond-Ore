@@ -29,4 +29,4 @@ category: crafting
 research: diamond-synthesizer
 ambientSound: respawning
 ambientSoundVolume: 0.5
-outputItem: cryogem/1
+outputItem: cryogem/10
