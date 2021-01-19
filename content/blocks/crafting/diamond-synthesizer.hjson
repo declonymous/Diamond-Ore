@@ -44,4 +44,4 @@ loopSound: machine
 loopSoundVolume: 0.95
 ambientSound: respawning
 ambientSoundVolume: 0.5
-outputItem: diamond/50
+outputItem: diamond/20
