@@ -1,5 +1,5 @@
 //type: GenericCrafter
-name: Heavy Coal Processor
+name: Heavy sand Processor
 description: Solidifies oil into chunks of coal.
 itemCapacity: 300
 liquidCapacity: 150
