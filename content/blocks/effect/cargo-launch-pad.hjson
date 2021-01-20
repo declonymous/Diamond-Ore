@@ -1,9 +1,9 @@
 name: Cargo Launch Pad
 description: Launches large batches of items to selected sectors.
 //type: LaunchPad
-itemCapacity: 800
+itemCapacity: 2000
 size: 6
-launchTime: 1800
+launchTime: 180
 health: 28800
 buildVisibility: campaignOnly
 //podRegion: cargo-launch-pad-pod
