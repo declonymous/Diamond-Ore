@@ -1,7 +1,7 @@
 name: Cryo-Diamond Vault
 description: An ultimate item storage block, capable of storing a massive amount of items of each type.
 type: StorageBlock
-itemCapacity: 8000
+itemCapacity: 50000
 hasItems: true
 health: 5000
 size: 5
