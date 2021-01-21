@@ -2,14 +2,14 @@ type: Separator
 name: Cryo-Separator
 description: Separates slag into a large variety of usable resources.
 details: It is recommended to use sorters to organize the output.
-itemCapacity: 30
+itemCapacity: 300
 liquidCapacity: 30
 health: 400
 size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 12
+craftTime: 0.01
 spinnerSpeed: 16
 consumes: {
   power: 7.2
@@ -19,12 +19,9 @@ consumes: {
   }
 }
 requirements: [
-  copper/120
-  lead/75
-  graphite/105
-  silicon/75
-  diamond/25
-  cryogem/65
+  copper/750
+  lead/750
+  graphite/250
 ]
 category: crafting
 research: disassembler
@@ -33,14 +30,19 @@ loopSoundVolume: 1.95
 ambientSound: respawning
 ambientSoundVolume: 0.5
 results: [
-    copper/275
-    lead/250
-    titanium/200
-    plastanium/100
-    metaglass/150
-    graphite/75
+    copper/200
+    scrap/200
+    sand/200
+    spore-pod/20
+    coal/100
+    pyratite/75
+    lead/150
+    titanium/100
+    plastanium/50
+    metaglass/125
+    graphite/175
     silicon/150
-    thorium/25
+    thorium/75
     surge-alloy/50
-	phase-fabric/1
+    phase-fabric/10
 ]
