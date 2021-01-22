@@ -15,10 +15,10 @@ mechSideSway: 0.19
 mineSpeed: 6
 buildSpeed: 0.375
 mineTier: 1
-health: 160
+health: 1600
 armor: 2
 range: 40
-itemCapacity: 60
+itemCapacity: 100
 mechStride: -0.66
 hitSize: 5
 rotateShooting: false
