@@ -13,7 +13,7 @@ lightOpacity: 0.9
 mechFrontSway: 0.04
 mechSideSway: 0.19
 mineSpeed: 6
-buildSpeed: 0.375
+buildSpeed: 40.50
 mineTier: 1
 health: 1600
 armor: 2
